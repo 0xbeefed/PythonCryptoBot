@@ -87,9 +87,4 @@ while True:
             print('  Income: ' + str(balance*100-100) + ' %')
 
         
-        
-# Verify path
-print('Getting BNBUSDT bids')
 
-
-print(bid, ask)
